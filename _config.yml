@@ -1,0 +1,11 @@
+# basic options
+title: More About Alicia
+author: Chin Alicia
+email: chinalicia.ae@gmail.com
+description: I am always delighted for a new challenge or curious question, learn more about how my passion can bring you and your project to the next mach.
+instagram_username: shedrives.ali
+github_username:  chin-alicia
+
+# Build settings
+markdown: kramdown
+theme: Roxo Hugo
